@@ -4,7 +4,6 @@
 
 字符串，扫描识别二维码或条形码，并有UI界面。
 
-<img src="https://raw.githubusercontent.com//Sansui-Zhang-z/Zsolve/edit/main/Show.png" />
 
 ### 原理说明
 
