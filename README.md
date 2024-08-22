@@ -4,7 +4,7 @@
 
 字符串，扫描识别二维码或条形码，并有UI界面。
 
-<img src="C:\Users\San11\Pictures\Screenshots\屏幕截图(16).png" alt="屏幕截图(16)" style="zoom: 67%;" />
+<img src="https://github.com/Sansui-Zhang-z/Zsolve/edit/main/Show.png" />
 
 ### 原理说明
 
