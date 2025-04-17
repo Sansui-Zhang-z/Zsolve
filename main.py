@@ -11,6 +11,7 @@ from PIL import Image
 # 二维码/条形码识别的包
 from pyzbar.pyzbar import decode
 
+# 这是一个标记测试
 
 class MyMainForm(QWidget, Ui_Form):
     # 基本的初始化
